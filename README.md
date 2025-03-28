@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning JavaScript and React  
   
 
-- 😅 Fun fact: I still to study JavaScript..  
+- 😅 Fun fact: I still study JavaScript..  
   
 
 <br/>  
